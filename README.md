@@ -29,12 +29,15 @@ $ npm install discord.js
 ```
 (Optional: npm install eslint)
 
-5. Create new application in Discord dev portal & add bot
+5. Create new application in Discord dev portal [here](https://discord.com/developers/applications) & add bot
 
-6. Hide API tokens within .env file. Use dotenv package to manage keys. 
+6. Hide API tokens within .env file. Use dotenv package to manage keys.
 ```
  npm install dotenv
 ```
+
+> The .env file should be created in the main directory contain the following lines:  
+> TOKEN = YOUR_DISCORD_API_TOKEN_HERE
 
 ### Deploy
 (TODO)
