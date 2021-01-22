@@ -1,0 +1,6 @@
+# maybe better to commit modules later
+node_modules/
+
+secret-config.json
+.eslintrc.json
+.env
