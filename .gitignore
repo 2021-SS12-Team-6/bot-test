@@ -3,4 +3,9 @@ node_modules/
 
 secret-config.json
 .eslintrc.json
+
+# Used for storing credentials
+# In a file called .env
+# Store the following:
+# TOKEN = YOUR_DISCORD_API_TOKEN_HERE
 .env
